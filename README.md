@@ -1,5 +1,5 @@
 # CDNPage
-A single page CDN webpage template suitable for website templates
+一个适用于CDN网站的单页网站模板
 ### 说明
 
 网页由“[模板王](http://www.mobanwang.com/)”中的开源网页改编而来，适用于CDN网站
